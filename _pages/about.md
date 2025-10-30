@@ -16,6 +16,7 @@ I am passionate about integrating AI algorithms with real-world engineering to b
 - Provincial Second Prize, *National Embedded System Design Competition (Southern Division)*  
 - Provincial Second Prize, *National College Student Electronic Design Contest*  
 - Second Prize, *Baidu Brain AI Innovation Application Competition*
+- Third-Class Scholarship at the University Level
 
 I aspire to advance the development of intelligent and autonomous systems through interdisciplinary research and innovation.
 
